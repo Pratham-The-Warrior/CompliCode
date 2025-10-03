@@ -1,0 +1,5 @@
+{
+  "name": "Code Complexity Analyzer",
+  "description": "An application that mimics a VS Code extension to analyze the time and space complexity of code snippets using the Gemini API, providing valuable insights for competitive programmers and developers.",
+  "requestFramePermissions": []
+}
